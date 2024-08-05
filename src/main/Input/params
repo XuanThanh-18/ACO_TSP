@@ -1,0 +1,9 @@
+tr 1.0
+alpha 1.0
+beta 2.0
+evaporation 0.5
+Q 500
+antFactor 0.8
+randomFactor 0.01
+iterations 100
+numberOfAnts 48
